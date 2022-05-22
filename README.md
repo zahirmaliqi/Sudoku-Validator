@@ -9,6 +9,7 @@ each of the sub-grid of the size 3 x 3 contains all the numbers from 1 to 9 (1 a
 1. Download the zip file from GitHub found [here](https://github.com/zahirmaliqi/Sudoku-Validator) and after that, extract it.
 2. Open terminal (Command Prompt).
 3. Using ``` 'cd' ``` - navigate to the directory where sv.java is.
+
    ```sh 
    cd Downloads 
    ```
@@ -22,9 +23,22 @@ each of the sub-grid of the size 3 x 3 contains all the numbers from 1 to 9 (1 a
    cd src
    ```
 4. Then, enter the following command to reads files and complies them into class files.
- ```sh 
+
+   ```sh 
    javac *.java
    ```
+5. Using ``` 'cd ..' ``` will move you up one directory.
+   ```sh 
+   cd .. 
+   ```
+6. Now, run with: 
+   ```sh
+   java -classpath . src.sv [file-name]
+    ```
+    example
+    ```sh
+   java -classpath . src.sv rowErrot
+    ```
  
    
    
