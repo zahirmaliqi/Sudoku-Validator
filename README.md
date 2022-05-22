@@ -7,3 +7,11 @@ each of the sub-grid of the size 3 x 3 contains all the numbers from 1 to 9 (1 a
 ## Instructions to run the application
 
 1. Download the zip file from GitHub found [here](https://github.com/zahirmaliqi/Sudoku-Validator) and after that, extract it.
+2. Open terminal (Command Prompt).
+3. Using 'cd' - navigate to the directory where sv.java is.
+   ```sh
+   cd Downloads
+   cd Sudoku-Validator-main
+   cd Sudoku-Validator-main
+   cd src
+   ```
