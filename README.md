@@ -37,7 +37,7 @@ each of the sub-grid of the size 3 x 3 contains all the numbers from 1 to 9 (1 a
     ```
     example
     ```sh
-   java -classpath . src.sv rowErrot
+   java -classpath . src.sv rowError
     ```
  
    
