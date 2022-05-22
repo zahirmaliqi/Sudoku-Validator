@@ -6,4 +6,4 @@ each of the sub-grid of the size 3 x 3 contains all the numbers from 1 to 9 (1 a
 
 ## Instructions to run the application
 
-1.Download the zip file from GitHub found [here](https://github.com/zahirmaliqi/Sudoku-Validator) and after that, extract it.
+1. Download the zip file from GitHub found [here](https://github.com/zahirmaliqi/Sudoku-Validator) and after that, extract it.
