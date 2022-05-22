@@ -90,7 +90,7 @@ public class sudoku {
 		final int ROWS = 9;
 		final int COLUMNS = 9;
 		int[][] numArray = new int[ROWS][COLUMNS];
-		File sudoku_file = new File("..\\Files\\" + path + ".txt");
+		File sudoku_file = new File("./src/Files/" + path + ".txt");
 		if (sudoku_file.exists()) {
 			Scanner sc = new Scanner(sudoku_file);
 			while (sc.hasNextLine()) {
