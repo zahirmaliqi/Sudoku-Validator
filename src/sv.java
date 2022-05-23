@@ -7,7 +7,7 @@ public class sv {
 	public static void main(String[] args) throws IOException, FileNotFoundException {
     
 		if (args.length == 0 || args[0] == null || args == null) {
-			System.out.println("File Arguement is missing");
+			System.out.println("File Argument is missing");
 			System.exit(1);
 		} else if (args.length > 1) {
 			System.out.println("Invalid Input. Valid Input: [file-name]");
