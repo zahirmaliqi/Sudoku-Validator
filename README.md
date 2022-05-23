@@ -2,7 +2,11 @@
 
 Sudoku is a logic-based puzzle that uses combinatorial-number placement. In a classic Sudoku puzzle,
 the task is to fill the numbers in a 9 x 9 grid laced in such a way that each row, each column, and 
-each of the sub-grid of the size 3 x 3 contains all the numbers from 1 to 9 (1 and 9 inclusive)
+each of the sub-grid of the size 3 x 3 contains all the numbers from 1 to 9 (1 and 9 inclusive).
+
+* Each row contains unique values from 1-9.
+* Each column contains unique values from 1-9.
+* Each of the 9 sub-squares, of size 3x3, contains a unique value from 1-9.
 
 ## Instructions to run the application
 
