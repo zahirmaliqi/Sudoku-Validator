@@ -111,7 +111,7 @@ public class sudoku {
 			sudoku sudokuValidator = new sudoku(path);
 			sudokuValidator.isSudokuValid(numArray);
 		} else {
-			System.out.println("This File doesn't exist");
+			System.out.println("This File doesn't exist. All Files: basicGrid | basicGrid2 | columnError | outOfRangeError | outOfRangeError2 | rowError | rubbishError | subGridError | sumValidationError.");
 		}
 
 	}
